@@ -1,1 +1,2 @@
-these are new edits in master branch
+these are new edits in new branch
+
